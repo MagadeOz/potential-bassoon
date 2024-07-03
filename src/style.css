@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#card-palo-bottom {
+  transform: rotate(180deg);
+}
+
+.card {
+  min-height: 250px;
+  max-height: 1000px;
+
+  min-width: 150px;
+  max-width: 300px;
+}
